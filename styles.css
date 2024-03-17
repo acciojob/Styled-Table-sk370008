@@ -1,1 +1,33 @@
 /* your code */
+table{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+}
+/* thead tbody{
+    border: 2px solid black ;
+    border-radius: 50%;
+} */
+
+thead{
+    background-color: #215A8E;
+    color: #EAF0F4;
+
+}
+
+/* th{
+    padding-left: 7px;
+}
+
+td{
+    padding-right: 100px;
+    padding-left: 7px;
+} */
+
+.even-row{
+    background-color: #DDDDDD;
+}
+
+.odd-row{
+    background-color: #FFFFFF;
+}
